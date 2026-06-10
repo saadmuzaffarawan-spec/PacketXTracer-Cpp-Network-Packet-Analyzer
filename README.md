@@ -52,39 +52,39 @@ The project is useful for students learning C++, OOP, networking, packet analysi
 
 ### Main Menu
 
-![PacketXTracer Main Menu](Screenshots/main-menu-dark.png)
+![PacketXTracer Main Menu](Screenshots/Main-Menu-Dark.png)
 
 ### Live Packet Capture Dashboard
 
-![PacketXTracer Live Capture Dashboard](Screenshots/live-capture-dashboard.png)
+![PacketXTracer Live Capture Dashboard](Screenshots/LayoutDark.png)
 
 ### CLI Device Selection
 
-![PacketXTracer CLI Device Selection](Screenshots/cli-device-selection.png)
+![PacketXTracer CLI Device Selection](Screenshots/Cli_Device_Selection.png)
 
 ### Selected Network Adapter
 
-![PacketXTracer Selected Adapter](Screenshots/selected-adapter.png)
+![PacketXTracer Selected Adapter](Screenshots/Cli_SelectedAdapter.png)
 
 ### Packet Table View
 
-![PacketXTracer Packet Table](Screenshots/packet-table.png)
+![PacketXTracer Packet Table](Screenshots/PacketDark.png)
 
 ### TCP Packet Detection
 
-![PacketXTracer TCP Packet](Screenshots/tcp-packet.png)
+![PacketXTracer TCP Packet](Screenshots/TCP%20Packet.png)
 
 ### UDP Packet Detection
 
-![PacketXTracer UDP Packet](Screenshots/udp-packet.png)
+![PacketXTracer UDP Packet](Screenshots/UDP%20Packet.png)
 
 ### Unknown Packet Handling
 
-![PacketXTracer Unknown Packet](Screenshots/unknown-packet.png)
+![PacketXTracer Unknown Packet](Screenshots/unknownpacket.png)
 
 ### Packet Log Saving
 
-![PacketXTracer File Saving](Screenshots/file-saving.png)
+![PacketXTracer File Saving](Screenshots/FileHandling_SavingPackets.png)
 
 ---
 
