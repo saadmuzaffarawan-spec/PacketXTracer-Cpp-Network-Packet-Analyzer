@@ -1,0 +1,26 @@
+@echo off
+cd /d C:\Packetanalyzer
+
+echo Building PacketXTracer...
+
+C:\raylib\w64devkit\bin\g++.exe src\main.cpp src\Networking.cpp src\ui.cpp ^
+-I"C:\Packetanalyzer\Include" ^
+-I"C:\raylib\raylib\src" ^
+-I"C:\PcapPlusPlus-25.05\Common++\header" ^
+-I"C:\PcapPlusPlus-25.05\Packet++\header" ^
+-I"C:\PcapPlusPlus-25.05\Pcap++\header" ^
+-I"C:\Npcap-SDK\Include" ^
+-L"C:\raylib\raylib\src" ^
+-L"C:\PcapPlusPlus-25.05\build\Common++" ^
+-L"C:\PcapPlusPlus-25.05\build\Packet++" ^
+-L"C:\PcapPlusPlus-25.05\build\Pcap++" ^
+-L"C:\Npcap-SDK\Lib\x64" ^
+-lraylib ^
+-lPcap++ -lPacket++ -lCommon++ ^
+-lwpcap -lPacket ^
+-lws2_32 -liphlpapi -lopengl32 -lgdi32 -lwinmm ^
+-o PacketXTracer.exe
+
+echo.
+echo Build finished.
+pause

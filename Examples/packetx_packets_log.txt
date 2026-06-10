@@ -1,0 +1,4186 @@
+
+========================================
+NEW PACKETX TRACER SESSION STARTED
+Time: Thu Jun 11 00:17:29 2026
+========================================
+
+----------------------------------------
+Packet No: 0
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.162.130.28
+Source Port: 55821
+Destination Port: 8886
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 1
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59946
+Destination Port: 443
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 2
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: 185.162.130.28
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55821
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 3
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.162.130.28
+Source Port: 55821
+Destination Port: 8886
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 4
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: 185.162.130.28
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55821
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 5
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59946
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 6
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59946
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 7
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59946
+Destination Port: 443
+Size: 795 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 8
+Time: Thu Jun 11 00:17:30 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 9
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59946
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 10
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59946
+Size: 173 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 11
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59946
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 12
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59946
+Destination Port: 443
+Size: 866 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 13
+Time: Thu Jun 11 00:17:30 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 88 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 14
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59946
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 15
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59946
+Size: 1466 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 16
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59946
+Size: 1466 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 17
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59946
+Size: 1466 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 18
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59946
+Size: 1466 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 19
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59946
+Size: 1466 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 20
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59946
+Size: 1304 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 21
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59946
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 22
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59946
+Destination Port: 443
+Size: 148 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 23
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59946
+Destination Port: 443
+Size: 709 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 24
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 52786
+Destination Port: 443
+Size: 125 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 25
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59946
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 26
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59946
+Size: 533 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 27
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59946
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 28
+Time: Thu Jun 11 00:17:30 2026
+Protocol: UNKNOWN
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 0 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 29
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 52786
+Size: 114 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 30
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59946
+Size: 963 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 31
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59946
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 32
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 52786
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 33
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 55853
+Destination Port: 443
+Size: 102 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 34
+Time: Thu Jun 11 00:17:30 2026
+Protocol: ARP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 42 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 35
+Time: Thu Jun 11 00:17:30 2026
+Protocol: TCP
+Source IP: 84.32.102.196
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 55853
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 36
+Time: Thu Jun 11 00:17:30 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65462
+Destination Port: 53
+Size: 118 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 37
+Time: Thu Jun 11 00:17:30 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 53381
+Destination Port: 53
+Size: 118 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 38
+Time: Thu Jun 11 00:17:30 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 53
+Destination Port: 65462
+Size: 165 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 39
+Time: Thu Jun 11 00:17:30 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 53
+Destination Port: 53381
+Size: 165 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 40
+Time: Thu Jun 11 00:17:31 2026
+Protocol: UNKNOWN
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 0 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 41
+Time: Thu Jun 11 00:17:31 2026
+Protocol: ARP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 42 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 42
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: 162.244.34.17
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55871
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 43
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 162.244.34.17
+Source Port: 55871
+Destination Port: 8886
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 44
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55859
+Destination Port: 8886
+Size: 75 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 45
+Time: Thu Jun 11 00:17:32 2026
+Protocol: ARP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 42 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 46
+Time: Thu Jun 11 00:17:32 2026
+Protocol: ARP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 46 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 47
+Time: Thu Jun 11 00:17:32 2026
+Protocol: ARP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 42 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 48
+Time: Thu Jun 11 00:17:32 2026
+Protocol: ARP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 46 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 49
+Time: Thu Jun 11 00:17:32 2026
+Protocol: ARP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 42 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 50
+Time: Thu Jun 11 00:17:32 2026
+Protocol: ARP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 46 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 51
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 192.168.18.91
+Destination IP: 239.255.255.250
+Source Port: 53385
+Destination Port: 1900
+Size: 175 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 52
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 192.168.18.91
+Destination IP: 203.0.113.1
+Source Port: 53386
+Destination Port: 12345
+Size: 107 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 53
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 192.168.18.91
+Destination IP: 192.168.18.1
+Source Port: 53392
+Destination Port: 5351
+Size: 44 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 54
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 192.168.18.91
+Destination IP: 192.168.18.1
+Source Port: 53393
+Destination Port: 5351
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 55
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 192.168.18.91
+Destination IP: 239.255.255.250
+Source Port: 53394
+Destination Port: 1900
+Size: 175 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 56
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 192.168.18.91
+Destination IP: 89.169.174.133
+Source Port: 61880
+Destination Port: 3478
+Size: 70 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 57
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 192.168.18.91
+Destination IP: 84.32.61.171
+Source Port: 61880
+Destination Port: 3478
+Size: 70 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 58
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 2923
+Destination Port: 53
+Size: 98 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 59
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 192.168.18.91
+Destination IP: 192.168.18.1
+Source Port: 41242
+Destination Port: 53
+Size: 78 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 60
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: 162.244.34.17
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55871
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 61
+Time: Thu Jun 11 00:17:32 2026
+Protocol: ICMP
+Source IP: 192.168.18.1
+Destination IP: 192.168.18.91
+Source Port: 53392
+Destination Port: 5351
+Size: 76 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 62
+Time: Thu Jun 11 00:17:32 2026
+Protocol: ICMP
+Source IP: 192.168.18.1
+Destination IP: 192.168.18.91
+Source Port: 53393
+Destination Port: 5351
+Size: 98 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 63
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 192.168.18.1
+Destination IP: 192.168.18.91
+Source Port: 53
+Destination Port: 41242
+Size: 94 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 64
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 61880
+Destination Port: 3478
+Size: 70 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 65
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 53
+Destination Port: 2923
+Size: 114 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 66
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55859
+Size: 78 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 67
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55859
+Destination Port: 8886
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 68
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UNKNOWN
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 0 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 69
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55851
+Destination Port: 8886
+Size: 75 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 70
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 89.169.174.133
+Destination IP: 192.168.18.91
+Source Port: 3478
+Destination Port: 61880
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 71
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 192.168.18.91
+Destination IP: 72.255.54.47
+Source Port: 53386
+Destination Port: 50184
+Size: 70 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 72
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55859
+Size: 90 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 73
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 61880
+Destination Port: 3478
+Size: 70 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 74
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55851
+Size: 90 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 75
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55696
+Size: 77 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 76
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55696
+Destination Port: 8886
+Size: 77 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 77
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: 185.162.130.26
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55697
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 78
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.162.130.26
+Source Port: 55697
+Destination Port: 8886
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 79
+Time: Thu Jun 11 00:17:32 2026
+Protocol: ARP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 42 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 80
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 55853
+Destination Port: 443
+Size: 102 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 81
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 162.244.34.43
+Source Port: 55837
+Destination Port: 8886
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 82
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 61880
+Destination Port: 3478
+Size: 70 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 83
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: 162.244.34.43
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55837
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 84
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 162.244.34.43
+Source Port: 55837
+Destination Port: 8886
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 85
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: 84.32.102.196
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 55853
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 86
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: 185.162.130.26
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55697
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 87
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55696
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 88
+Time: Thu Jun 11 00:17:32 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55865
+Destination Port: 8886
+Size: 75 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 89
+Time: Thu Jun 11 00:17:32 2026
+Protocol: UDP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 61880
+Destination Port: 3478
+Size: 70 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 90
+Time: Thu Jun 11 00:17:33 2026
+Protocol: TCP
+Source IP: 162.244.34.43
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55837
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 91
+Time: Thu Jun 11 00:17:33 2026
+Protocol: ICMP
+Source IP: 192.168.18.91
+Destination IP: 84.32.61.171
+Source Port: 0
+Destination Port: 0
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 92
+Time: Thu Jun 11 00:17:33 2026
+Protocol: ICMP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 0
+Destination Port: 0
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 93
+Time: Thu Jun 11 00:17:33 2026
+Protocol: ICMP
+Source IP: 84.32.102.196
+Destination IP: 192.168.18.91
+Source Port: 0
+Destination Port: 0
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 94
+Time: Thu Jun 11 00:17:33 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55865
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 95
+Time: Thu Jun 11 00:17:33 2026
+Protocol: ICMP
+Source IP: 84.32.61.171
+Destination IP: 192.168.18.91
+Source Port: 0
+Destination Port: 0
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 96
+Time: Thu Jun 11 00:17:33 2026
+Protocol: ARP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 42 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 97
+Time: Thu Jun 11 00:17:33 2026
+Protocol: ARP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 46 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 98
+Time: Thu Jun 11 00:17:33 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 162.244.34.4
+Source Port: 55868
+Destination Port: 8886
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 99
+Time: Thu Jun 11 00:17:33 2026
+Protocol: TCP
+Source IP: 162.244.34.4
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55868
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 100
+Time: Thu Jun 11 00:17:33 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 162.244.34.4
+Source Port: 55868
+Destination Port: 8886
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 101
+Time: Thu Jun 11 00:17:33 2026
+Protocol: TCP
+Source IP: 162.244.34.4
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55868
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 102
+Time: Thu Jun 11 00:17:34 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 93 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 103
+Time: Thu Jun 11 00:17:34 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 64323
+Destination Port: 53
+Size: 108 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 104
+Time: Thu Jun 11 00:17:34 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 49233
+Destination Port: 53
+Size: 108 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 105
+Time: Thu Jun 11 00:17:34 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 56068
+Destination Port: 53
+Size: 108 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 106
+Time: Thu Jun 11 00:17:34 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 96 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 107
+Time: Thu Jun 11 00:17:34 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 53
+Destination Port: 64323
+Size: 325 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 108
+Time: Thu Jun 11 00:17:34 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 53
+Destination Port: 49233
+Size: 324 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 109
+Time: Thu Jun 11 00:17:34 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 53
+Destination Port: 56068
+Size: 300 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 110
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 111
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.162.130.8
+Source Port: 54707
+Destination Port: 8886
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 112
+Time: Thu Jun 11 00:17:34 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 113
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 114
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 115
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 1812 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 116
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: 185.162.130.8
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 54707
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 117
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.162.130.8
+Source Port: 54707
+Destination Port: 8886
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 118
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: 185.162.130.8
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 54707
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 119
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 54696
+Destination Port: 8886
+Size: 75 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 120
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 121
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 173 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 122
+Time: Thu Jun 11 00:17:34 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 123
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 626 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 124
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: 84.32.102.196
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 55853
+Size: 78 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 125
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 55853
+Destination Port: 443
+Size: 82 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 126
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 55863
+Destination Port: 443
+Size: 89 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 127
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 1466 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 128
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 1466 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 129
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 130
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 1386 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 131
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 4250 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 132
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 604 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 133
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 134
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 434 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 135
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 136
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 148 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 137
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 166 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 138
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 319 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 139
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 54696
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 140
+Time: Thu Jun 11 00:17:34 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 141
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: 84.32.102.196
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 55853
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 142
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 55853
+Destination Port: 443
+Size: 102 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 143
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: 84.32.102.196
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 55863
+Size: 89 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 144
+Time: Thu Jun 11 00:17:34 2026
+Protocol: ARP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 42 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 145
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 55863
+Destination Port: 443
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 146
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 377 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 147
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 377 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 148
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 149
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 136 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 150
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 151
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 105 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 152
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 105 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 153
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 941 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 154
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 155
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 105 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 156
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 186 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 157
+Time: Thu Jun 11 00:17:34 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 158
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55820
+Destination Port: 8886
+Size: 75 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 159
+Time: Thu Jun 11 00:17:34 2026
+Protocol: TCP
+Source IP: 84.32.102.196
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 55853
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 160
+Time: Thu Jun 11 00:17:34 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 161
+Time: Thu Jun 11 00:17:34 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 94 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 162
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 163
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 59947
+Size: 387 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 164
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 20.18.192.154
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 56621
+Size: 93 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 165
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 20.18.192.154
+Source Port: 56621
+Destination Port: 443
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 166
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 20.18.192.154
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 56621
+Size: 78 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 167
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 20.18.192.154
+Source Port: 56621
+Destination Port: 443
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 168
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 20.18.192.154
+Source Port: 56621
+Destination Port: 443
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 169
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 59947
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 170
+Time: Thu Jun 11 00:17:35 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 171
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.162.130.27
+Source Port: 55824
+Destination Port: 8886
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 172
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 89.222.107.247
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55854
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 173
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 89.222.107.247
+Source Port: 55854
+Destination Port: 8886
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 174
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55823
+Destination Port: 8886
+Size: 75 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 175
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55820
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 176
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 20.18.192.154
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 56621
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 177
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 172.188.155.25
+Source Port: 55815
+Destination Port: 443
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 178
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 185.162.130.27
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55824
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 179
+Time: Thu Jun 11 00:17:35 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 180
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55823
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 181
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 89.222.107.247
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55854
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 182
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55869
+Destination Port: 8886
+Size: 75 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 183
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 162.244.34.42
+Source Port: 55836
+Destination Port: 8886
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 184
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 172.188.155.25
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 55815
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 185
+Time: Thu Jun 11 00:17:35 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 186
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55858
+Size: 102 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 187
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55858
+Destination Port: 443
+Size: 102 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 188
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55869
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 189
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55858
+Size: 78 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 190
+Time: Thu Jun 11 00:17:35 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 191
+Time: Thu Jun 11 00:17:35 2026
+Protocol: TCP
+Source IP: 162.244.34.42
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55836
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 192
+Time: Thu Jun 11 00:17:35 2026
+Protocol: ARP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 42 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 193
+Time: Thu Jun 11 00:17:35 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 194
+Time: Thu Jun 11 00:17:36 2026
+Protocol: TCP
+Source IP: 185.223.94.98
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55866
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 195
+Time: Thu Jun 11 00:17:36 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.223.94.98
+Source Port: 55866
+Destination Port: 8886
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 196
+Time: Thu Jun 11 00:17:36 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.223.94.98
+Source Port: 55866
+Destination Port: 8886
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 197
+Time: Thu Jun 11 00:17:36 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 198
+Time: Thu Jun 11 00:17:36 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55864
+Destination Port: 8886
+Size: 75 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 199
+Time: Thu Jun 11 00:17:36 2026
+Protocol: TCP
+Source IP: 185.223.94.98
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55866
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 200
+Time: Thu Jun 11 00:17:36 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 201
+Time: Thu Jun 11 00:17:36 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55864
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 202
+Time: Thu Jun 11 00:17:36 2026
+Protocol: UNKNOWN
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 0 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 203
+Time: Thu Jun 11 00:17:36 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 204
+Time: Thu Jun 11 00:17:36 2026
+Protocol: ARP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 0
+Destination Port: 0
+Size: 42 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 205
+Time: Thu Jun 11 00:17:36 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 206
+Time: Thu Jun 11 00:17:36 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 55853
+Destination Port: 443
+Size: 102 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 207
+Time: Thu Jun 11 00:17:36 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55813
+Size: 81 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 208
+Time: Thu Jun 11 00:17:36 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55813
+Destination Port: 8886
+Size: 77 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 209
+Time: Thu Jun 11 00:17:36 2026
+Protocol: TCP
+Source IP: 84.32.102.196
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 55853
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 210
+Time: Thu Jun 11 00:17:36 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 211
+Time: Thu Jun 11 00:17:36 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55839
+Destination Port: 8886
+Size: 75 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 212
+Time: Thu Jun 11 00:17:37 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55661
+Size: 77 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 213
+Time: Thu Jun 11 00:17:37 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55661
+Destination Port: 8886
+Size: 77 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 214
+Time: Thu Jun 11 00:17:37 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 215
+Time: Thu Jun 11 00:17:37 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55812
+Size: 77 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 216
+Time: Thu Jun 11 00:17:37 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55812
+Destination Port: 8886
+Size: 77 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 217
+Time: Thu Jun 11 00:17:37 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55839
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 218
+Time: Thu Jun 11 00:17:37 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55813
+Size: 78 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 219
+Time: Thu Jun 11 00:17:37 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55661
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 220
+Time: Thu Jun 11 00:17:37 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 221
+Time: Thu Jun 11 00:17:37 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55812
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 222
+Time: Thu Jun 11 00:17:37 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 95.173.204.44
+Source Port: 55874
+Destination Port: 8886
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 223
+Time: Thu Jun 11 00:17:37 2026
+Protocol: TCP
+Source IP: 95.173.204.44
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55874
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 224
+Time: Thu Jun 11 00:17:37 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 95.173.204.44
+Source Port: 55874
+Destination Port: 8886
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 225
+Time: Thu Jun 11 00:17:37 2026
+Protocol: TCP
+Source IP: 95.173.204.44
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55874
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 226
+Time: Thu Jun 11 00:17:37 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 37419
+Destination Port: 1900
+Size: 188 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 227
+Time: Thu Jun 11 00:17:37 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 228
+Time: Thu Jun 11 00:17:37 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 229
+Time: Thu Jun 11 00:17:37 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 37419
+Destination Port: 1900
+Size: 188 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 230
+Time: Thu Jun 11 00:17:38 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 37419
+Destination Port: 1900
+Size: 188 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 231
+Time: Thu Jun 11 00:17:38 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 37419
+Destination Port: 1900
+Size: 188 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 232
+Time: Thu Jun 11 00:17:38 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 55853
+Destination Port: 443
+Size: 102 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 233
+Time: Thu Jun 11 00:17:38 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 234
+Time: Thu Jun 11 00:17:38 2026
+Protocol: UDP
+Source IP: 192.168.18.1
+Destination IP: 239.255.255.250
+Source Port: 32889
+Destination Port: 1900
+Size: 174 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 235
+Time: Thu Jun 11 00:17:38 2026
+Protocol: TCP
+Source IP: 84.32.102.196
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 55853
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 236
+Time: Thu Jun 11 00:17:38 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 237
+Time: Thu Jun 11 00:17:39 2026
+Protocol: UDP
+Source IP: 192.168.18.1
+Destination IP: 239.255.255.250
+Source Port: 32889
+Destination Port: 1900
+Size: 174 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 238
+Time: Thu Jun 11 00:17:39 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 89.222.107.166
+Source Port: 55714
+Destination Port: 8886
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 239
+Time: Thu Jun 11 00:17:39 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 37419
+Destination Port: 1900
+Size: 189 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 240
+Time: Thu Jun 11 00:17:39 2026
+Protocol: TCP
+Source IP: 89.222.107.166
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55714
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 241
+Time: Thu Jun 11 00:17:39 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 37419
+Destination Port: 1900
+Size: 189 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 242
+Time: Thu Jun 11 00:17:39 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 37419
+Destination Port: 1900
+Size: 189 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 243
+Time: Thu Jun 11 00:17:40 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 37419
+Destination Port: 1900
+Size: 189 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 244
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 178.249.213.82
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55804
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 245
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 178.249.213.82
+Source Port: 55804
+Destination Port: 8886
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 246
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.162.130.221
+Source Port: 55872
+Destination Port: 8886
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 247
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55856
+Destination Port: 8886
+Size: 75 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 248
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55856
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 249
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55856
+Destination Port: 8886
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 250
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55873
+Destination Port: 8886
+Size: 75 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 251
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 162.244.34.11
+Source Port: 55845
+Destination Port: 8886
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 252
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55873
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 253
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55873
+Destination Port: 8886
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 254
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 185.162.130.221
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55872
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 255
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.162.130.221
+Source Port: 55872
+Destination Port: 8886
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 256
+Time: Thu Jun 11 00:17:40 2026
+Protocol: UDP
+Source IP: 192.168.18.1
+Destination IP: 239.255.255.250
+Source Port: 32889
+Destination Port: 1900
+Size: 175 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 257
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 185.162.130.221
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55872
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 258
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.162.130.21
+Source Port: 55843
+Destination Port: 8886
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 259
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 178.249.213.82
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55804
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 260
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55873
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 261
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 185.162.130.21
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55843
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 262
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.162.130.21
+Source Port: 55843
+Destination Port: 8886
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 263
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55844
+Destination Port: 8886
+Size: 75 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 264
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55856
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 265
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 162.244.34.11
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55845
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 266
+Time: Thu Jun 11 00:17:40 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 267
+Time: Thu Jun 11 00:17:40 2026
+Protocol: UDP
+Source IP: 192.168.18.1
+Destination IP: 239.255.255.250
+Source Port: 32889
+Destination Port: 1900
+Size: 175 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 268
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 185.162.130.21
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55843
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 269
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55844
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 270
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 55853
+Destination Port: 443
+Size: 102 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 271
+Time: Thu Jun 11 00:17:40 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 272
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55852
+Destination Port: 443
+Size: 75 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 273
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 86 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 274
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55826
+Size: 77 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 275
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55826
+Destination Port: 8886
+Size: 77 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 276
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 185.162.130.219
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55825
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 277
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.162.130.219
+Source Port: 55825
+Destination Port: 8886
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 278
+Time: Thu Jun 11 00:17:40 2026
+Protocol: TCP
+Source IP: 84.32.102.196
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 55853
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 279
+Time: Thu Jun 11 00:17:41 2026
+Protocol: TCP
+Source IP: 185.162.130.219
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55825
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 280
+Time: Thu Jun 11 00:17:41 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55826
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 281
+Time: Thu Jun 11 00:17:41 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55857
+Destination Port: 8886
+Size: 75 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 282
+Time: Thu Jun 11 00:17:41 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55857
+Size: 78 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 283
+Time: Thu Jun 11 00:17:41 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55857
+Destination Port: 8886
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 284
+Time: Thu Jun 11 00:17:41 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55857
+Size: 90 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 285
+Time: Thu Jun 11 00:17:41 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55841
+Size: 77 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 286
+Time: Thu Jun 11 00:17:41 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55841
+Destination Port: 8886
+Size: 77 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 287
+Time: Thu Jun 11 00:17:41 2026
+Protocol: TCP
+Source IP: 185.162.128.94
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55842
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 288
+Time: Thu Jun 11 00:17:41 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.162.128.94
+Source Port: 55842
+Destination Port: 8886
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 289
+Time: Thu Jun 11 00:17:41 2026
+Protocol: TCP
+Source IP: 185.162.128.94
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55842
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 290
+Time: Thu Jun 11 00:17:41 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55841
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 291
+Time: Thu Jun 11 00:17:41 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.130.107.201
+Source Port: 55867
+Destination Port: 8886
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 292
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: 185.130.107.201
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55867
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 293
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 52.123.164.69
+Source Port: 54665
+Destination Port: 443
+Size: 112 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 294
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: 52.123.164.69
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 54665
+Size: 101 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 295
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 52.123.164.69
+Source Port: 54665
+Destination Port: 443
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 296
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 162.244.34.16
+Source Port: 55827
+Destination Port: 8886
+Size: 55 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 297
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: 162.244.34.16
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55827
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 298
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 162.244.34.16
+Source Port: 55827
+Destination Port: 8886
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 299
+Time: Thu Jun 11 00:17:42 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65462
+Destination Port: 53
+Size: 112 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 300
+Time: Thu Jun 11 00:17:42 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 58233
+Destination Port: 53
+Size: 112 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 301
+Time: Thu Jun 11 00:17:42 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 53
+Destination Port: 58233
+Size: 222 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 302
+Time: Thu Jun 11 00:17:42 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 53
+Destination Port: 65462
+Size: 235 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 303
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 20.44.10.122
+Source Port: 59948
+Destination Port: 443
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 304
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: 162.244.34.16
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55827
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 305
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55822
+Size: 77 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 306
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55822
+Destination Port: 8886
+Size: 77 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 307
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 84.32.102.196
+Source Port: 55853
+Destination Port: 443
+Size: 102 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 308
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: 20.44.10.122
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 59948
+Size: 66 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 309
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 20.44.10.122
+Source Port: 59948
+Destination Port: 443
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 310
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 20.44.10.122
+Source Port: 59948
+Destination Port: 443
+Size: 571 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 311
+Time: Thu Jun 11 00:17:42 2026
+Protocol: TCP
+Source IP: 84.32.102.196
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 55853
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 312
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 8886
+Destination Port: 55822
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 313
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 20.44.10.122
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 59948
+Size: 153 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 314
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 20.44.10.122
+Source Port: 59948
+Destination Port: 443
+Size: 491 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 315
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 20.44.10.122
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 59948
+Size: 1466 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 316
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 20.44.10.122
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 59948
+Size: 1466 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 317
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 20.44.10.122
+Source Port: 59948
+Destination Port: 443
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 318
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 20.44.10.122
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 59948
+Size: 2878 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 319
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 20.44.10.122
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 59948
+Size: 1043 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 320
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 20.44.10.122
+Source Port: 59948
+Destination Port: 443
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 321
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 20.44.10.122
+Source Port: 59948
+Destination Port: 443
+Size: 2965 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 322
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 64160
+Destination Port: 443
+Size: 1292 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 323
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 64160
+Destination Port: 443
+Size: 1292 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 324
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55852
+Destination Port: 443
+Size: 9000 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 325
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55852
+Destination Port: 443
+Size: 113 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 326
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55852
+Destination Port: 443
+Size: 153 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 327
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55852
+Destination Port: 443
+Size: 9000 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 328
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55852
+Destination Port: 443
+Size: 157 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 329
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 330
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 331
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 332
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 333
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 334
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 335
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 336
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 337
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 338
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 113 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 339
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55852
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 340
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 20.44.10.122
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 59948
+Size: 157 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 341
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 20.44.10.122
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 59948
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 342
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 20.44.10.122
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 59948
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 343
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 20.44.10.122
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 59948
+Size: 518 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 344
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 20.44.10.122
+Source Port: 59948
+Destination Port: 443
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 345
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 20.44.10.122
+Source Port: 59948
+Destination Port: 443
+Size: 78 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 346
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 20.44.10.122
+Source Port: 59948
+Destination Port: 443
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 347
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 64160
+Size: 102 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 348
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 64160
+Size: 1292 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 349
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 64160
+Size: 1292 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 350
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 64160
+Size: 324 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 351
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 64160
+Destination Port: 443
+Size: 185 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 352
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 64160
+Destination Port: 443
+Size: 134 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 353
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 64160
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 354
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 404 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 355
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 898 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 356
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55852
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 357
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 105 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 358
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 20.44.10.122
+Destination IP: 192.168.18.91
+Source Port: 443
+Destination Port: 59948
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 359
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55852
+Destination Port: 443
+Size: 109 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 360
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 586 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 361
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 898 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 362
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55852
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 363
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 105 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 364
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 64160
+Size: 365 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 365
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 64160
+Size: 124 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 366
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 64160
+Destination Port: 443
+Size: 93 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 367
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 64160
+Size: 83 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 368
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 64160
+Size: 144 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 369
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 64160
+Size: 87 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 370
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 64160
+Destination Port: 443
+Size: 93 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 371
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 64160
+Size: 87 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 372
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 55852
+Destination Port: 443
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 373
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 55852
+Size: 74 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 374
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 185.162.128.91
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55832
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 375
+Time: Thu Jun 11 00:17:43 2026
+Protocol: TCP
+Source IP: 192.168.18.91
+Destination IP: 185.162.128.91
+Source Port: 55832
+Destination Port: 8886
+Size: 57 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 376
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 64160
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 377
+Time: Thu Jun 11 00:17:43 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 65440
+Destination Port: 443
+Size: 91 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 378
+Time: Thu Jun 11 00:17:44 2026
+Protocol: TCP
+Source IP: 185.162.128.91
+Destination IP: 192.168.18.91
+Source Port: 8886
+Destination Port: 55832
+Size: 54 bytes
+----------------------------------------
+
+----------------------------------------
+Packet No: 379
+Time: Thu Jun 11 00:17:44 2026
+Protocol: UDP
+Source IP: NULL
+Destination IP: NULL
+Source Port: 443
+Destination Port: 65440
+Size: 128 bytes
+----------------------------------------
+

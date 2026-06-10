@@ -1,0 +1,33 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+*.dll
+*.a
+*.lib
+
+# Logs and generated packet files
+*.log
+packets_export.txt
+selected_packet.txt
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Editor folders
+.vscode/
+.idea/
+
+# Font folders / external assets
+JetBrains_Mono/
+
+# Build folders
+build/
+bin/
+obj/
+
+# OS files
+Thumbs.db
+.DS_Store
